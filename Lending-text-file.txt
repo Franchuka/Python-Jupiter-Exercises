@@ -1,0 +1,10 @@
+LoanID,StringID,Product,CustomerGender,Location,Region,TotalPrice
+1,id_1,Product B,Male,Location 2,Region 2,16600.0
+2,id_2,Product B,Male,Location 3,,16600.0
+3,id_3,Product C,Female,Location 5,Region 5,15600.0
+4,id_4,Product B,Male,Location 6,Region 1,16600.0
+5,id_5,Product D,Female,Location 7,Region 2,20250.0
+6,id_6,Product B,Female,Location 10,Region 2,
+7,id_7,Product A,Male,Location 11,Region 3,20250.0
+8,id_8,Product B,Male,Location 12,Region 6,16600.0
+9,id_9,Product A,Female,Location 3,Region 3,22250.0

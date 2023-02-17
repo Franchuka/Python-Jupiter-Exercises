@@ -1,0 +1,21 @@
+LoanID,StringID,Product,CustomerGender,Location,Region,TotalPrice,StartDate,Deposit,DailyRate,TotalDaysYr,AmtPaid36,AmtPaid60,AmtPaid360,LoanStatus
+1,LoanID_1,Product B,Female,Location 3,Region 2,17600.0,2018-04-07 00:00:00,2200,45,365,3221,4166,14621,Active
+2,LoanID_2,Product D,Female,Location 6,Region 6,,2019-02-01 00:00:00,2200,45,365,3161,4096,16041,Active
+3,LoanID_3,Product B,Male,Location 8,Region 3,16600.0,2016-08-12 00:00:00,1000,45,365,2260,3205,16340,
+4,LoanID_4,Product A,Male,Location 26,Region 2,17600.0,,2200,45,365,3141,4166,16321,Active
+5,LoanID_5,Product B,Female,Location 34,Region 3,21250.0,28/10/2017,2200,55,365,3570,4745,14720,Active
+6,LoanID_6,Product A,Male,Location 34,Region 1,,19/04/2019,2200,45,365,3301,4066,15141,Active
+7,LoanID_7,Product A,Male,Location 25,,21250.0,2020-04-07 00:00:00,2200,55,365,1951,3176,18701,Active
+8,LoanID_8,Product D,Male,Location 46,Region 5,17600.0,24/04/2018,2200,45,365,4071,4056,16351,Active
+9,LoanID_9,Product A,Male,Location 156,Region 6,23250.0,2019-03-09 00:00:00,5000,55,365,5850,7375,21250,
+10,LoanID_10,Product C,Male,Location 21,Region 9,21250.0,25/07/2020,2200,55,365,2051,3176,18351,Active
+11,LoanID_11,Product B,Female,Location 13,Region 6,17600.0,2018-01-05 00:00:00,2200,45,365,3260,4405,17380,Active
+12,LoanID_12,Product D,Female,Location 25,Region 6,21250.0,29/03/2017,2200,55,365,3190,4115,11790,Active
+13,LoanID_13,Product B,Female,Location 579,Region 3,17600.0,2018-03-10 00:00:00,2200,45,365,3221,5086,14441,Active
+14,LoanID_14,Product A,Male,Location 602,Region 3,21750.0,18/09/2019,3000,55,365,1780,1605,6010,Active
+15,LoanID_15,Product A,Male,Location 10,Region 7,23250.0,20/05/2019,5000,55,365,5600,6825,22000,Active
+16,LoanID_16,Product B,Male,Location 44,Region 2,17600.0,31/05/2018,2200,45,365,3221,4726,16001,Active
+17,LoanID_17,Product A,Male,Location 25,Region 3,23250.0,29/08/2019,5000,55,365,4100,4735,9010,Active
+18,LoanID_18,Product B,Male,Location 44,Region 6,17600.0,2018-06-06 00:00:00,2200,45,365,3501,4126,16381,Active
+19,LoanID_19,Product B,Male,Location 26,Region 6,17600.0,27/03/2019,2200,45,365,3228,4206,16781,Active
+20,LoanID_20,Product E,NotSpecified,Location 30,Region 6,55625.0,2019-11-10 00:00:00,8000,120,365,12226,15176,46626,Active
